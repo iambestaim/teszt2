@@ -1,2 +1,3 @@
 # teszt2
-ájlegyula
+gyula meg mindig dagadt
+ajlegyula
